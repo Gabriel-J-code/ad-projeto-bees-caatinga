@@ -2,8 +2,23 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=20196675&assignment_repo_type=AssignmentRepo)
 # Projeto da disciplina de análise de dados
  
-- Membros da equipe:
-- Objetivo do projeto: 
+- Membros da equipe: Gabriel de Jesus
+- Objetivo do projeto: Analisar os fatores que afetam a produção e o faturamento anual de mel no Brasil
 
-No projeto você deve gerar um Notebook ou um website com a análise de dados escolhida. Fique livre para escolher a base de dados e as perguntas do seu interesse. Envie o código do projeto para este repositório.
+## Questões iniciais a serem respondidas
+1. ### Como o valor do mel variou com o passar dos anos?
+2. ### Quais regiões, estados e municípios são mais produtivos e/ou mais lucrativos? São as mesmas?
+
+## Fontes de dados:
+### Principais:
+* [IPEADATA](ipeadata.gov.br): 'Produção - mel de abelha' e 'Produção - mel de abelha - quantidade'
+: possuem, respectivamente, dados sobre o valor arrecadado pela venda de mel, e a  quantidade produzida no brasil doas anos 1974 a 2023, organizados por níveis geográficos (pais, estados, municípios, áreas comparáveis, regiões metropolitanas etc).
+* [DADOS HISTÓRICOS ANUAIS do Instituo Nacional de Metereóloga](https://portal.inmet.gov.br/dadoshistoricos): contem dados do clima do pais em diferentes municípios e regiões do pais do anos de 2000 a 2025 (limitado ao dia de 31/07 durante a produção destes trabalho)
+
+### Potenciais:
+* Bioma de cada localidade
+* GBIF - presença das especieis nativas em cada região
+* Desmatamento e Queimadas
+* [Censo Agropecuário
+Tabela 6935](https://sidra.ibge.gov.br/tabela/6935): Número de estabelecimentos agropecuários com apicultura e Venda de produtos, Total de caixas de abelha e Quantidade de mel e cera de abelha, geleia real, própolis e pólen vendidos, por tipologia, condição do produtor em relação às terras, grupos de atividade econômica e grupos de área total (Vide Notas)
 
