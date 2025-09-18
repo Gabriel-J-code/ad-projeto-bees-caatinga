@@ -16,7 +16,7 @@
 * [DADOS HISTÓRICOS ANUAIS do Instituo Nacional de Metereóloga](https://portal.inmet.gov.br/dadoshistoricos): contem dados do clima do pais em diferentes municípios e regiões do pais do anos de 2000 a 2025 (limitado ao dia de 31/07 durante a produção destes trabalho)
 
 ### Potenciais:
-* Bioma de cada localidade
+* Bioma de cada localidade [IBGE define bioma predominante em cada município brasileiro para fins estatísticos](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/40519-ibge-define-bioma-predominante-em-cada-municipio-brasileiro-para-fins-estatisticos)      
 * GBIF - presença das especieis nativas em cada região
 * Desmatamento e Queimadas
 * [Censo Agropecuário
