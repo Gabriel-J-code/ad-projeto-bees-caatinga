@@ -11,14 +11,12 @@
 
 ## Fontes de dados:
 ### Principais:
-* [IPEADATA](http://www.ipeadata.gov.br/): 'Produção - mel de abelha' e 'Produção - mel de abelha - quantidade'
-: possuem, respectivamente, dados sobre o valor arrecadado pela venda de mel, e a  quantidade produzida no brasil doas anos 1974 a 2023, organizados por níveis geográficos (pais, estados, municípios, áreas comparáveis, regiões metropolitanas etc).
+* [IPEADATA](http://www.ipeadata.gov.br/): 'Produção - mel de abelha' e 'Produção - mel de abelha - quantidade': possuem, respectivamente, dados sobre o valor arrecadado pela venda de mel, e a  quantidade produzida no brasil doas anos 1974 a 2023, organizados por níveis geográficos (pais, estados, municípios, áreas comparáveis, regiões metropolitanas etc).
 * [DADOS HISTÓRICOS ANUAIS do Instituo Nacional de Metereóloga](https://portal.inmet.gov.br/dadoshistoricos): contem dados do clima do pais em diferentes municípios e regiões do pais do anos de 2000 a 2025 (limitado ao dia de 31/07 durante a produção destes trabalho)
+* Bioma de cada localidade [IBGE define bioma predominante em cada município brasileiro para fins estatísticos](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/40519-ibge-define-bioma-predominante-em-cada-municipio-brasileiro-para-fins-estatisticos)   
 
-### Potenciais:
-* Bioma de cada localidade [IBGE define bioma predominante em cada município brasileiro para fins estatísticos](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/40519-ibge-define-bioma-predominante-em-cada-municipio-brasileiro-para-fins-estatisticos)      
+### Potenciais:   
 * GBIF - presença das especieis nativas em cada região
 * Desmatamento e Queimadas
-* [Censo Agropecuário
-Tabela 6935](https://sidra.ibge.gov.br/tabela/6935): Número de estabelecimentos agropecuários com apicultura e Venda de produtos, Total de caixas de abelha e Quantidade de mel e cera de abelha, geleia real, própolis e pólen vendidos, por tipologia, condição do produtor em relação às terras, grupos de atividade econômica e grupos de área total (Vide Notas)
+* [Censo Agropecuário Tabela 6935](https://sidra.ibge.gov.br/tabela/6935): Número de estabelecimentos agropecuários com apicultura e Venda de produtos, Total de caixas de abelha e Quantidade de mel e cera de abelha, geleia real, própolis e pólen vendidos, por tipologia, condição do produtor em relação às terras, grupos de atividade econômica e grupos de área total (Vide Notas)
 
