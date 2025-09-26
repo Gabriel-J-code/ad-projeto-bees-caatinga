@@ -5571,10 +5571,3 @@
 5222203;Vila Boa;GO;Cerrado
 5222302;Vila Propício;GO;Cerrado
 5300108;Brasília;DF;Cerrado
---------;--------;--------;--------
-CAMPO;DESCRIÇÃO;;
-Geocódigo;Geocódigo do município, distrito federal ou estadual ou área estadual operacional, conforme a Malha Municipal Digital (IBGE, 2022);;
-Nome do município;Nome do município, distrito federal ou estadual ou área estadual operacional, conforme a Malha Municipal Digital (IBGE, 2022);;
-Sigla da UF;Sigla da Unidade da Federação, conforme a Malha Municipal Digital (IBGE, 2022);;
-Bioma predominante;Bioma com maior área territorial existente no município;;
-Referência;IBGE. Malha Municipal Digital. Rio de Janeiro: IBGE, 2022. Disponível em: <https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?=&t=downloads>. Acesso em: dez. 2023;;
