@@ -11,10 +11,10 @@
 
 ## Fontes de dados:
 ### Principais:
-* [IPEADATA](http://www.ipeadata.gov.br/): 'Produção - mel de abelha' e 'Produção - mel de abelha - quantidade': possuem, respectivamente, dados sobre o valor arrecadado pela venda de mel, e a  quantidade produzida no brasil doas anos 1974 a 2023, organizados por níveis geográficos (pais, estados, municípios, áreas comparáveis, regiões metropolitanas etc).
+* [IPEADATA](http://www.ipeadata.gov.br/): 'Produção - mel de abelha' e 'Produção - mel de abelha - quantidade': possuem, respectivamente, dados sobre o valor arrecadado pela venda de mel, e a  quantidade produzida no brasil doas anos 1974 a 2024, organizados por níveis geográficos (pais, estados, municípios, áreas comparáveis, regiões metropolitanas etc). É preciso considerar que os valores de venda do mel estão deflacionados para o ano de 2010 e na casa dos mil, para esse porjeto os valores foram reajustados para valores deflacionados para o ano de 2024, e ajustados para a casa dos reais.
 * [DADOS HISTÓRICOS ANUAIS do Instituo Nacional de Metereóloga](https://portal.inmet.gov.br/dadoshistoricos): contem dados do clima do pais em diferentes municípios e regiões do pais do anos de 2000 a 2025 (limitado ao dia de 31/07 durante a produção destes trabalho)
 * Bioma de cada localidade [IBGE define bioma predominante em cada município brasileiro para fins estatísticos](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/40519-ibge-define-bioma-predominante-em-cada-municipio-brasileiro-para-fins-estatisticos)   
-* IPEADATA: Índice nacional de preços ao consumidor amplo (IPCA) geral: índice (dez. 1993 = 100), usado para um comparação justa do valor do mel com o passar dos anos. Os indices usados foram recalculados tendo 2023 como base usando recursos disponíveis no site da IPEADATA.
+* IPEADATA: Índice nacional de preços ao consumidor amplo (IPCA) geral: índice (dez. 1993 = 100), usado para um comparação justa do valor do mel com o passar dos anos. Os indices usados foram recalculados tendo 2024 como base usando recursos disponíveis no site da IPEADATA.
 
 ### Potenciais:   
 * GBIF - presença das especieis nativas em cada região
